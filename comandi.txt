@@ -1,0 +1,4 @@
+1.git status
+2.git add .    - dobqva novi promeni
+3.git commit -m "suobshtenieto"
+4.git push    - kachva v repoto
